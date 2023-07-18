@@ -1,3 +1,5 @@
+Deployment Link: https://bhuminandan.github.io/js-Cursor-Follower/
+
 Hey there! 👋 You've just stumbled upon my latest JavaScript project, and I'm super excited to share it with you! 🎉 Imagine experiencing a modern website with an awesome cursor effect that'll blow your mind! 💫
 
 So, what's it all about? 🤔 Well, I've created this fantastic functionality that brings a cool cursor circle and a delightful follower circle into play. 🖱️🔍 The cursor circle, represented by a div element with the class "cursor", gracefully glides along with your mouse movements. But wait, there's more! The magic really happens with the follower circle – another div element with the classes "cursor" and "cursor__follower". 🧙‍♂️🌟 This one's just like a trusty sidekick following your main cursor with a slight delay, and boy, does it look amazing! 😎
